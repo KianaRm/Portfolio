@@ -6,6 +6,20 @@
     margin: 20px 70px;
 }
 
+.nav-logo{
+    font-size: large;
+    font-weight: 700;
+    position: relative;
+}
+
+.nav-logo img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    height: 40px;
+}
+
 .nav-menu{
     list-style: none;
     display: flex;
