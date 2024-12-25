@@ -19,7 +19,7 @@ const About = ()=> {
          <div className="about-section">
             <div className="about-right">
                <div className="about-text">
-                  <p>I am Kiana Ramzanzadeh a 22 year old Front-End developer who is recently graduated in computer programming from Ankara University with the 3rd place in the whole assosiated period. I've also passed 3 months intern period in Front-End based on React.<br/>I'm an active and enerjic person who loves communicating and learning new things. I also know 3 languages which give me a great chance to have wider commiunications and relationships in both social and professional field.
+                  <p>I am Kiana Ramzanzadeh a 22 year old Front-End developer who is recently graduated in computer programming from Ankara University with the 3rd place in the whole assosiated period. I've also passed 3 months intern period in Front-End based on React.<br/>I'm an active and energic person who loves communicating and learning new things. I also know 3 languages which give me a great chance to have wider commiunications and relationships in both social and professional field.
                   </p>
                </div>
             </div>
